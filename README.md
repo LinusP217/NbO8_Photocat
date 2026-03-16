@@ -1,4 +1,4 @@
-# NbO8 Photocat
+# [Nb(O<sub>2</sub>)<sub>4</sub>]<sup>3-</sup> Photocatalysis Calculations
 
 <img align="right" src='https://github.com/LinusP217/NbO8_Photocat/blob/main/K3NbO8_PDOS.svg' width = "300" height = "236">
 
