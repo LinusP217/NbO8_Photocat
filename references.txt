@@ -1,0 +1,2 @@
+1. S. J. Clark; M. D. Segall; C. J. Pickard; P. J. Hasnip; M. J. Probert; K. Refson; M. C. Payne. First Principles Methods Using CASTEP. Z. Kristallogr. Cryst. Mater. 2005, 220, 567.
+2. A. J. Morris; R. J. Nicholls; C. J. Pickard; J. R. Yates. OptaDOS: A tool for obtaining density of states, core-level and optical spectra from electronic structure codes. Comput. Phys. Commun. 2014, 185, 1477.
